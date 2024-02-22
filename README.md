@@ -17,7 +17,8 @@ To use Data Alfred, you will need to have Python installed on your system. The t
 
 ## How to Install
 
-```pip install data-alfred
+```bash
+pip install data-alfred
 ```
 
 ## How to Use
