@@ -50,7 +50,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your privacidade@totvs.com.br
+Alestan - privacidade@totvs.com.br
 
 Project Link: [https://github.com/TOTVS-Privacidade-de-Dados/data-alfred](https://github.com/TOTVS-Privacidade-de-Dados/data-alfred)
 
