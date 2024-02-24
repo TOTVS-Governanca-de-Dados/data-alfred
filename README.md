@@ -1,4 +1,11 @@
-# Data Alfred: Structuring Data Projects in Seconds
+
+
+<p align="center">
+  <a href="https://github.com/alestanalves/guia-ackercode">
+    <img src="https://github.com/TOTVS-Privacidade-de-Dados/data-alfred/assets/48387196/4efcedd5-1bfe-4db0-8fd9-259d902c151a" width="200" height="200">
+  </a>
+  <h1 align="center">Data Alfred: Structuring Data Projects in Seconds</h1>
+</p>
 
 ## About the Project
 
