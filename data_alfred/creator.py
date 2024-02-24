@@ -1,9 +1,9 @@
-# __main__.py
+# data_alfred/creator.py
 
 import os
 
-def main():
-    print("Criando seu projeto de dados")
+def create_project_structure():
+    print("Create a data project")
     
     data_dirs = ['data/preprocessed', 'data/raw', 'data/mischaracterized']
     for dir in data_dirs:
@@ -38,6 +38,3 @@ def main():
             pass
     
     print("Alfred finalizado")
-
-if __name__ == "__main__":
-    main()
