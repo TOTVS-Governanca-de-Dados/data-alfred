@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+data_alfred/__init__.py
+data_alfred/creator.py
+data_alfred.egg-info/PKG-INFO
+data_alfred.egg-info/SOURCES.txt
+data_alfred.egg-info/dependency_links.txt
+data_alfred.egg-info/top_level.txt
+tests/tests_library.py
