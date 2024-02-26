@@ -9,7 +9,7 @@
 
 ## About the Project
 
-Data Alfred is a tool designed to streamline the setup of new data projects by creating essential folders and files structure in seconds. Aimed at data teams and data analysis projects, Data Alfred establishes a solid and standardized foundation, allowing data scientists and analysts to focus on what truly matters: extracting valuable insights from data.
+Data Alfred is a tool designed to streamline the setup of new data projects by creating essential folders and files structure in seconds. Aimed at data teams and data analysis projects, Data Alfred establishes a solid and standardized foundation, allowing data scientists and analysts to focus on what truly matters: extracting valuable insights from data. Inpired by https://drivendata.github.io/cookiecutter-data-science/
 
 ## Features
 
@@ -30,8 +30,10 @@ pip install data-alfred
 
 ## How to Use
 
-```bash
-python data-alfred
+```python
+import data_alfred
+
+data_alfred.create_project_structure()
 ```
 
 1. Data Alfred will take care of the rest, creating the necessary directory and file structure for your data project.
@@ -57,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Alestan - privacidade@totvs.com.br
+Alestan Alves - https://github.com/alestanalves
 
 Project Link: [https://github.com/TOTVS-Privacidade-de-Dados/data-alfred](https://github.com/TOTVS-Privacidade-de-Dados/data-alfred)
 

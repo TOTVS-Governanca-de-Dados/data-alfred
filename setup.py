@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='data-alfred',
-    version='0.2.4',
+    version='0.2.5',
     author='Alestan Alves',
     author_email='alestan.silva@totvs.com.br',
     description='This is a package for creating a data science project structure',
