@@ -162,6 +162,9 @@ cython_debug/
 .data_alfred.egg-info/
 data_alfred.egg-info/
 
+data_alfred.egg-info/
+/data_alfred.egg-info
+
 .dist/
 dist/
 
